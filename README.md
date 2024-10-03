@@ -10,9 +10,9 @@ Stuff on my github:
 [01MMNS](https://matejpopda.github.io/MMNS)
 
 [AF](https://matejpopda.github.io/AF)
-### Complete +-
+### Abandoned incomplete
 [01MKP - Notes from Finite Elements Method class](https://matejpopda.github.io/MKP-latex)
 
 [01TG- Graph theory](https://matejpopda.github.io/TG)
-### Abandoned incomplete
-[01MRMMI - Incomplete](https://matejpopda.github.io/MRMMI)
+
+[01MRMMI](https://matejpopda.github.io/MRMMI)
