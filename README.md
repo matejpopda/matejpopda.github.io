@@ -5,14 +5,14 @@ Stuff on my github:
 [Template for taking latex notes](https://github.com/matejpopda/LaTeX-Notes-Template)
 ## Notes
 ### WIP
-[FYPL](matejpopda.github.io/FYPL)
+[FYPL](https://matejpopda.github.io/FYPL)
 
-[01MMNS](matejpopda.github.io/MMNS)
+[01MMNS](https://matejpopda.github.io/MMNS)
 
-[AF](matejpopda.github.io/AF)
+[AF](https://matejpopda.github.io/AF)
 ### Complete +-
-[01MKP - Notes from Finite Elements Method class](matejpopda.github.io/MKP-latex)
+[01MKP - Notes from Finite Elements Method class](https://matejpopda.github.io/MKP-latex)
 
-[01TG- Graph theory](matejpopda.github.io/TG)
+[01TG- Graph theory](https://matejpopda.github.io/TG)
 ### Abandoned incomplete
-[01MRMMI - Incomplete](matejpopda.github.io/MRMMI)
+[01MRMMI - Incomplete](https://matejpopda.github.io/MRMMI)
